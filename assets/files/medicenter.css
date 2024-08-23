@@ -19,3 +19,9 @@ header {
     background-color: black;
     color: aliceblue;
 }
+
+/* Style in header and my logo */
+.logo {
+    display: flex;
+    align-items: center;
+}
