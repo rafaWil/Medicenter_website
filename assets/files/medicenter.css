@@ -4,8 +4,10 @@
     padding: 0;
 }
 
+/* Style in every header */
 header {
     display: flex;
+    justify-content: center;
 }
 
 /* Style in first div, with name container */
