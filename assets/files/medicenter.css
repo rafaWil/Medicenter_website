@@ -12,7 +12,10 @@ header {
 
 /* Style in first div, with name container */
 .container {
+    display: flex;
+    justify-content: space-between;
     width: 990px;
     height: 100px;
     background-color: black;
+    color: aliceblue;
 }
