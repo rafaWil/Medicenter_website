@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+header {
+    display: flex;
+}
+
 /* Style in first div, with name container */
 .container {
     width: 990px;
