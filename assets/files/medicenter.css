@@ -16,8 +16,6 @@ header {
     display: flex;
     justify-content: space-between;
     width: 990px;
-    background-color: black;
-    color: aliceblue;
 }
 
 /* Style in header and my logo */
