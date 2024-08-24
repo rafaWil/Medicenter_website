@@ -25,9 +25,14 @@ header {
 }
 
 /* Style in UL and LI in my NAV tag */
-.nav ul,
+nav ul,
 li {
     list-style: none;
     margin: 0;
     padding: 0;
+}
+
+/* Added flex in menu */
+nav ul {
+    display: flex;
 }
