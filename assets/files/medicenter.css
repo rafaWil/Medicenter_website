@@ -42,3 +42,12 @@ li {
 nav ul {
     display: flex;
 }
+
+/* Style in link menu */
+nav a {
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #727272;
+}
