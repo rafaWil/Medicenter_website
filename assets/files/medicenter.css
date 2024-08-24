@@ -60,6 +60,10 @@ nav a:hover {
     color: #fff;
 }
 
+
 #banner {
-    background-image: url('../images/__MACOSX/img1.jpg');  
+    background-image:url('../images/__MACOSX/img1.jpg');  /* Caminho simplificado */
+    height: 500px;
+    background-position: center;
+    background-size: cover;
 }
