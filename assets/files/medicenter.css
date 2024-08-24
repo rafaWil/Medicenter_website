@@ -50,6 +50,7 @@ nav a {
     text-decoration: none;
     text-transform: uppercase;
     color: #727272;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 /* When move coursor in active LI */
