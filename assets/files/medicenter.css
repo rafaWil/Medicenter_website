@@ -51,3 +51,9 @@ nav a {
     text-transform: uppercase;
     color: #727272;
 }
+
+/* When move coursor in active LI */
+nav .active a:hover,
+nav a:hover {
+    background-color: #39aae1;
+}
