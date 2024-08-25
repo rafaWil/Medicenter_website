@@ -313,3 +313,10 @@ article .news-title {
     color: #000000;
     font-size: 23px;
 }
+
+/* Style in text news */
+article .news-resume {
+    color: #5c5c5c;
+    font-size: 14px;
+    line-height: 20px;
+}
