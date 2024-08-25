@@ -80,6 +80,6 @@ nav a:hover {
 }
 
 .banner_options {
-    flex: 1;
+    height: 210px;
     background-color: green;
 }
