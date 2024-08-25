@@ -76,6 +76,9 @@ nav a:hover {
 
 .banner_headline {
     flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .banner_options {
