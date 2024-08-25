@@ -60,7 +60,7 @@ nav a:hover {
     color: #fff;
 }
 
-
+/* Style in main banner */
 #banner {
     display: flex;
     justify-content: center;
@@ -70,10 +70,12 @@ nav a:hover {
     background-size: cover;
 }
 
+/* Direcion in tag column */
 .column {
     flex-direction: column;
 }
 
+/* Position in banner */
 .banner_headline {
     flex: 1;
     display: flex;
@@ -81,6 +83,7 @@ nav a:hover {
     justify-content: center;
 }
 
+/* Styles in titles */
 .banner_headline h1 {
     color: #ffffff;
     font-size: 70px;
