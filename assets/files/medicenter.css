@@ -256,3 +256,8 @@ nav a:hover {
 .media-icons a{
     text-decoration: none;
 }
+
+/* Style in B */
+.media-icons b {
+    color: #000000;
+}
