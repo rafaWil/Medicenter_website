@@ -147,3 +147,15 @@ nav a:hover {
     text-decoration: none;
     margin: 15px;
 }
+
+.banner-text-main {
+    margin: 15px;
+    display: flex;
+    padding: 5px;
+    font-size: 14px;
+    border-bottom: 1px solid #ccc;
+}
+
+.banner-text-main .banner-hour {
+    margin-left: 100px;
+}
