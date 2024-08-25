@@ -272,3 +272,8 @@ nav a:hover {
 .contact:hover {
     color: #2b4c99;
 } 
+
+/* Style in DATA about article */
+article .news-data {
+    display: flex;
+}
