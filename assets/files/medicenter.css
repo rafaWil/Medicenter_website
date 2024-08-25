@@ -85,14 +85,14 @@ nav a:hover {
     color: #ffffff;
     font-size: 70px;
     text-shadow: 0px 1px 0 #555555;
-    width: 300px;
+    max-width: 300px;
 }
 
 .banner_headline h2 {
     color: #ffffff;
     font-size: 21px;
     text-shadow: 0px 1px 0px #555555;
-    width: 300px;
+    max-width: 350px;
     margin-top: 30px;
 }
 
