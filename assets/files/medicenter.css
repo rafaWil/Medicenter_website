@@ -155,7 +155,7 @@ nav a:hover {
     display: flex;
     padding: 5px;
     font-size: 14px;
-    border-bottom: 1px solid #b6b6b6;
+    border-bottom: 1px solid rgb(105, 128, 177);
     gap: 100px;
 }
 
@@ -164,7 +164,7 @@ nav a:hover {
     display: flex;
     padding: 5px;
     font-size: 14px;
-    border-bottom: 1px solid #b6b6b6;
+    border-bottom: 1px solid rgb(105, 128, 177);
     gap: 145px;
 }
 
@@ -173,7 +173,7 @@ nav a:hover {
     display: flex;
     padding: 5px;
     font-size: 14px;
-    border-bottom: 1px solid #b6b6b6;
+    border-bottom: 1px solid rgb(105, 128, 177);
  
     gap: 155px;
 }
