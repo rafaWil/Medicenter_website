@@ -251,3 +251,8 @@ nav a:hover {
     color: #888888;
     font-size: 14px;
 }
+
+/* Remove line below A */
+.media-icons a{
+    text-decoration: none;
+}
