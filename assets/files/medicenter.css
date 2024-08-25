@@ -285,3 +285,12 @@ article .news-posted-at {
     font-size: 12px;
     padding: 10px;
 }
+
+/* Style in second text in next to right data */
+article .news-comments {
+    background-color: #39aae1;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 10px;
+    margin-left: 2px;
+}
