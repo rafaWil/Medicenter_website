@@ -135,5 +135,15 @@ nav a:hover {
     font-size: 13px;
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 18px
+    margin-left: 15px
+}
+
+.banner_options a {
+    display: inline-block;
+    border: 1px solid #ffffff;
+    padding: 5px;
+    color: #ffffff;
+    font-size: 13px;
+    text-decoration: none;
+    margin: 15px;
 }
