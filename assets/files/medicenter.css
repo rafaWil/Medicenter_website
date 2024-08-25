@@ -240,3 +240,14 @@ nav a:hover {
     text-align: left;
     margin-bottom: 10px;
 }
+
+/* Styles in divs about contacts */
+.phone,
+.email,
+.contact {
+    border-bottom: 1px solid #a7acb8;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    color: #888888;
+    font-size: 14px;
+}
