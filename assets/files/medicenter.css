@@ -101,8 +101,21 @@ nav a:hover {
     display: flex;
 }
 
+/* Positions in banners */
 .banner1,
 .banner2,
 .banner3 {
     flex: 1;
+}
+
+.banner1 {
+    background-color: #39aae1;
+}
+
+.banner2 {
+    background-color: #0079c7;
+}
+
+.banner3 {
+    background-color: #2b4c99;
 }
