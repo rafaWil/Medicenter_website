@@ -273,6 +273,11 @@ nav a:hover {
     color: #2b4c99;
 } 
 
+/* Flex in news */
+.flex {
+    display: flex;
+}
+
 /* Remove line below notice */
 article a {
     text-decoration: none;
