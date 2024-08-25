@@ -248,7 +248,7 @@ nav a:hover {
     border-bottom: 1px solid #a7acb8;
     padding-bottom: 20px;
     margin-top: 20px;
-    color: #888888;
+    color: #646464;
     font-size: 14px;
 }
 
@@ -259,7 +259,7 @@ nav a:hover {
 
 /* Style in B */
 .media-icons b {
-    color: #000000;
+    color: #3a3939;
 }
 
 /* Style for margin in Icon I */
