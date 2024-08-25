@@ -278,6 +278,10 @@ nav a:hover {
     display: flex;
 }
 
+article {
+    flex: 1;
+}
+
 /* Remove line below notice */
 article a {
     text-decoration: none;
