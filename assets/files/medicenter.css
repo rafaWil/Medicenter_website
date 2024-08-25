@@ -106,6 +106,7 @@ nav a:hover {
 .banner2,
 .banner3 {
     flex: 1;
+    color: #ffffff;
 }
 
 /* Color in background space in banners */
