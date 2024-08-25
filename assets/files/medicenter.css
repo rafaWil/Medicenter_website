@@ -294,3 +294,9 @@ article .news-comments {
     padding: 10px;
     margin-left: 2px;
 }
+
+/* Definied size in image */
+article .news-thumbnail img {
+    width: 100%;
+    height: auto;
+}
