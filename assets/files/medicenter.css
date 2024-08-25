@@ -130,3 +130,10 @@ nav a:hover {
     font-size: 21px;
     margin: 15px;
 }
+
+.banner_desc {
+    font-size: 13px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 18px
+}
