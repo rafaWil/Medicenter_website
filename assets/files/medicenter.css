@@ -295,6 +295,11 @@ article .news-comments {
     margin-left: 2px;
 }
 
+/* Space about image and title news */
+article .news-thumbnail {
+    margin-top: 30px;
+}
+
 /* Definied size in image */
 article .news-thumbnail img {
     width: 100%;
