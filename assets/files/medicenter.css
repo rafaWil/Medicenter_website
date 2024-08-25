@@ -276,6 +276,7 @@ nav a:hover {
 /* Flex in news */
 .flex {
     display: flex;
+    flex-wrap: wrap;
 }
 
 article {
