@@ -154,8 +154,5 @@ nav a:hover {
     padding: 5px;
     font-size: 14px;
     border-bottom: 1px solid #ccc;
-}
-
-.banner-text-main .banner-hour {
-    margin-left: 100px;
+    gap: 100px;
 }
