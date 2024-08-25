@@ -98,4 +98,11 @@ nav a:hover {
 
 .banner_options {
     height: 210px;
+    display: flex;
+}
+
+.banner1,
+.banner2,
+.banner3 {
+    flex: 1;
 }
