@@ -273,7 +273,15 @@ nav a:hover {
     color: #2b4c99;
 } 
 
-/* Style in DATA about article */
+/* Style in position data */
 article .news-data {
     display: flex;
+}
+
+/* Style in DATA about article */
+article .news-posted-at {
+    background-color: #2b4c99;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 10px;
 }
