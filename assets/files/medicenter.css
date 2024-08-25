@@ -62,6 +62,8 @@ nav a:hover {
 
 
 #banner {
+    display: flex;
+    justify-content: center;
     background-image:url('../images/__MACOSX/img1.jpg');  /* Caminho simplificado */
     height: 670px;
     background-position: center;
