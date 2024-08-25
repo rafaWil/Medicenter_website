@@ -261,3 +261,8 @@ nav a:hover {
 .media-icons b {
     color: #000000;
 }
+
+/* Style for margin in Icon I */
+.media-icons i {
+    margin-right: 10px;
+}
