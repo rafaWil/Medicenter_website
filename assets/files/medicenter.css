@@ -224,3 +224,12 @@ nav a:hover {
     flex-wrap: wrap;
     justify-content: space-between;
 }
+
+.box {
+    width: 150px;
+    height: 158px;
+    margin: 5px;
+    background-color: #39aee1;
+    margin-bottom: 15px;
+    display: inline-block;
+}
