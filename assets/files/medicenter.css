@@ -183,3 +183,12 @@ nav a:hover {
     display: flex;
     justify-content: center;
 }
+
+//* Define division in space in this part page */
+#geral section {
+    flex: 2;
+}
+
+#geral aside {
+    flex: 1;
+}
