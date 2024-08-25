@@ -233,3 +233,10 @@ nav a:hover {
     margin-bottom: 15px;
     display: inline-block;
 }
+
+/* Style in paragraph lorem */
+.widget-body-appointment p {
+    font-size: 14px;
+    text-align: left;
+    margin-bottom: 10px;
+}
