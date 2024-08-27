@@ -424,11 +424,6 @@ footer .widget-title-text {
     margin-left: 10px;
 }
 
-/* Style in arrow */
-.fm-2 .secondText i {
-    font-size: 12px;
-    margin-left: 10px;
-}
 
 .fm-2 .firstText {
     font-size: 22px;
@@ -441,6 +436,21 @@ footer .widget-title-text {
 
 /* Style in arrow */
 .fm-2 .secondText i {
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.fm-3 .firstText {
+    font-size: 22px;
+}
+
+.fm-3 .secondText {
+    font-size: 12px; /* ou qualquer outro valor que você deseje */
+    margin-top: 10px;
+}
+
+/* Style in arrow */
+.fm-3 .secondText i {
     font-size: 12px;
     margin-left: 10px;
 }
