@@ -399,3 +399,7 @@ footer .widget-title-text {
 .footer-copy a {
     text-decoration: none;
 }
+
+.footer-copy a:hover {
+    color: #39aee1;
+}
