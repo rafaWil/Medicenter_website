@@ -409,3 +409,17 @@ footer .widget-title-text {
 .footer-copy a:hover {
     color: #39aee1;
 }
+
+.fm-1 .firstText {
+    font-size: 22px;
+}
+
+.fm-1 .secondText {
+    font-size: 12px; /* ou qualquer outro valor que você deseje */
+}
+
+/* Style in arrow */
+.fm-1 .secondText i {
+    font-size: 12px;
+    margin-left: 10px;
+}
