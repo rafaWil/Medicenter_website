@@ -370,5 +370,10 @@ footer {
 }
 
 .footer-area {
+    background-color: red;
+}
 
+/* Direction in divs footer */
+.flexColumn {
+    flex-direction: column;
 }
