@@ -348,7 +348,6 @@ footer {
 
 .footer-menu {
     display: flex;
-    flex: 1;
 }
 
 .fm-1, .fm-2, .fm-3 {
@@ -368,4 +367,8 @@ footer {
 
 .fm-3 {
     background-color: #2b4c99;
+}
+
+.footer-area {
+
 }
