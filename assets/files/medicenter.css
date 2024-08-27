@@ -477,3 +477,12 @@ footer .widget-title-text {
     display: flex;
     flex: 1;
 }
+
+.Contacts a {
+    color: #c4c3c3;
+    text-decoration: none;
+}
+
+.Contacts a:hover {
+    color: #39aee1;
+}
