@@ -354,3 +354,16 @@ footer {
 .fm-1, .fm-2, .fm-3 {
     flex: 1;
 }
+
+/* Colors in background areas */
+.fm-1 {
+    background-color: #39aae1;
+}
+
+.fm-2 {
+    background-color: #0079c7;
+}
+
+.fm-3 {
+    background-color: #2b4c99;
+}
