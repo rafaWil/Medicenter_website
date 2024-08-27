@@ -370,7 +370,12 @@ footer {
 }
 
 .footer-area {
-    background-color: red;
+    display: flex;
+    color: #ffffff;
+}
+
+.footer-areaitem {
+    
 }
 
 /* Direction in divs footer */
