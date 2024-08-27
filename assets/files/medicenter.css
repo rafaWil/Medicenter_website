@@ -339,8 +339,14 @@ article .news-resume {
     margin-bottom: 30px;
 }
 
+/* Style in background footer */
 footer {
     background-color: #1e1e1e;
     display: flex;
     justify-content: center;
 }
+
+.footer-menu {
+    display: flex;
+}
+
