@@ -454,3 +454,10 @@ footer .widget-title-text {
     font-size: 12px;
     margin-left: 10px;
 }
+
+/* Style in first div about address */
+.textTop {
+    font-size: 13px;
+    color: #5c5c5c;
+    margin-bottom: 25px;
+}
