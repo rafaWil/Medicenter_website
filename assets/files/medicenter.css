@@ -353,6 +353,7 @@ footer {
 
 .fm-1, .fm-2, .fm-3 {
     flex: 1;
+    color: #ffffff;
 }
 
 /* Colors in background areas */
