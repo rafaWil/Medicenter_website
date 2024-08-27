@@ -388,3 +388,12 @@ footer {
 footer .widget-title-text {
     color: #ffffff;
 }
+
+.footer-copy{
+    border-top: 1px solid #2c2c2c;
+    height: 40px;
+    line-height: 40px;
+    color: #5c5c5c;
+    font-size: 12px;
+    margin-top: 30px;
+}
