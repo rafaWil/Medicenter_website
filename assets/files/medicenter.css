@@ -366,6 +366,11 @@ footer {
     background-color: #2b4c99;
 }
 
+.footer-menu a {
+    display: block;
+    text-decoration: none;
+}
+
 .footer-area {
     display: flex;
     color: #ffffff;
