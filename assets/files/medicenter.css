@@ -395,3 +395,7 @@ footer .widget-title-text {
     font-size: 12px;
     margin-top: 30px;
 }
+
+.footer-copy a {
+    text-decoration: none;
+}
