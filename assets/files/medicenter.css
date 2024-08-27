@@ -466,3 +466,14 @@ footer .widget-title-text {
     font-size: 14px;
     color: #5c5c5c;
 }
+
+.Contacts {
+    font-size: 14px;
+    color: #5c5c5c;
+    margin-left: 25px;
+}
+
+.Medicenter-Texts {
+    display: flex;
+    flex: 1;
+}
