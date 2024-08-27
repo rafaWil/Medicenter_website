@@ -419,6 +419,11 @@ footer .widget-title-text {
     margin-top: 10px;
 }
 
+.fm-1 .secondText i {
+    font-size: 12px;
+    margin-left: 10px;
+}
+
 /* Style in arrow */
 .fm-2 .secondText i {
     font-size: 12px;
