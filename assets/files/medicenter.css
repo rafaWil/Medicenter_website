@@ -350,7 +350,6 @@ footer {
 .fm-1, .fm-2, .fm-3 {
     flex: 1;
     color: #ffffff;
-    padding: 20px;
 }
 
 /* Colors in background areas */
@@ -369,6 +368,7 @@ footer {
 .footer-menu a {
     display: block;
     text-decoration: none;
+    padding: 20px;
 }
 
 .footer-area {
