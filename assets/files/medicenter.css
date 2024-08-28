@@ -524,3 +524,7 @@ footer .widget-title-text {
 .textInLatest {
     margin-bottom: 5px; /* ajuste o valor para aproximar o texto "8 years ago" */
 }
+
+.textInLatest2 {
+    color: #727272;
+}
