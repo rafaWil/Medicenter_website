@@ -490,6 +490,9 @@ footer .widget-title-text {
 .links {
     font-size: 20px;
     margin-top: 10px;
+    bottom: 40px;
+    right: 90;
+    position: fixed;
 }
 
 .links i:hover {
