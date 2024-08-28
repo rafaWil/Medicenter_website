@@ -514,3 +514,17 @@ footer .widget-title-text {
     font-size: 10px;
     align-items: center;
 }
+.iconArrow {
+    display: flex;
+    align-items: center;
+}
+  
+.textInLatest {
+    margin-bottom: 5px; /* ajuste o valor para aproximar o texto "8 years ago" */
+}
+  
+.yearsText {
+    font-size: 12px; /* ajuste o tamanho da fonte */
+    color: #39aae1; /* ajuste a cor do texto */
+    margin-top: -5px; /* ajuste o valor para aproximar o texto "8 years ago" */
+}
