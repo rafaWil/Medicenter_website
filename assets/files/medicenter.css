@@ -486,3 +486,12 @@ footer .widget-title-text {
 .Contacts a:hover {
     color: #39aee1;
 }
+
+.links {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.links i:hover {
+    color: #39aee1;
+}
