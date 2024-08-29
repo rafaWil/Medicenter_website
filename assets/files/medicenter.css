@@ -568,4 +568,7 @@ footer .widget-title-text {
     header {
         height: auto;
     }
+    .logo {
+        padding-left: 20px;
+    }
 } 
