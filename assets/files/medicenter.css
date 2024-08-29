@@ -528,3 +528,13 @@ footer .widget-title-text {
 .textInLatest2 {
     color: #727272;
 }
+
+/* Style for responsive in page */
+@media (max-width: 768px) {
+    .banner_headline h1 {
+        font-size: 55px;
+    }
+    .banner_headline h2 {
+        font-size: 17px;
+    }
+} {
