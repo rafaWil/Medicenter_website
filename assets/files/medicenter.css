@@ -549,9 +549,18 @@ footer .widget-title-text {
     .container {
         flex-direction: column;
     }
-
     #geral section,
     #geral aside {
         padding: 20px;
+    }
+    .footer-menu {
+        flex-direction: column;
+    }
+    .footer-area {
+        flex-direction: column;
+        padding: 20px;
+    }
+    .footer-copy {
+        padding-left: 20px;
     }
 } 
