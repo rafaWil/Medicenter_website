@@ -545,10 +545,6 @@ footer .widget-title-text {
         height: auto;
         flex-direction: column;
     }
-
-    .container {
-        flex-direction: column;
-    }
     #geral section,
     #geral aside {
         padding: 20px;
@@ -562,5 +558,8 @@ footer .widget-title-text {
     }
     .footer-copy {
         padding-left: 20px;
+    }
+    header .container {
+        flex-direction: row;
     }
 } 
