@@ -579,6 +579,10 @@ footer .widget-title-text {
     nav ul {
         flex-direction: column;
         display: none;
+        position: absolute;
+        left: 0;
+        width: 100%;
+        background-color: #ffffff;
     }
     header {
         height: auto;
