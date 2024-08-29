@@ -529,6 +529,16 @@ footer .widget-title-text {
     color: #727272;
 }
 
+.menuMobile {
+    display: none;
+    width: 40px;
+    height: 40px;
+    background-color: #000000;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 20px;
+}
+
 /* Style for responsive in page */
 @media (max-width: 700px) {
 
@@ -571,5 +581,8 @@ footer .widget-title-text {
     }
     .logo {
         padding-left: 20px;
+    }
+    .menuMobile {
+        display: block;
     }
 } 
