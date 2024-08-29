@@ -530,13 +530,13 @@ footer .widget-title-text {
 }
 
 /* Style for responsive in page */
-@media (max-width: 600px) {
+@media (max-width: 700px) {
 
     .banner_headline{
         padding: 20px;
     }
     .banner_headline h1 {
-        font-size: 55px;
+        font-size: 40px;
     }
     .banner_headline h2 {
         font-size: 17px;
